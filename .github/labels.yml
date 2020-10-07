@@ -37,3 +37,6 @@
 - name: "type: upstream library"
   description: Something's wrong with an upstream library the plugin is using
   color: fbca04
+- name: "grabbed"
+  description: Issue/FR has been grabbed by a member of the community
+  color: 5319e7
