@@ -34,3 +34,6 @@
 - name: "documentation"
   description: Something to do with documentation
   color: 1d76db
+- name: "type: upstream library"
+  description: Something's wrong with an upstream library the plugin is using
+  color: fbca04
