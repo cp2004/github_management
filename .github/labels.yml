@@ -1,24 +1,36 @@
-- name: bug
-  description: Something isn't working
-  color: d73a4a
-- name: documentation
-  description: Improvements or additions to documentation
-  color: 0075ca
-- name: duplicate
-  description: This issue or pull request already exists
-  color: cfd3d7
-- name: enhancement
-  description: New feature or request
-  color: a2eeef
-- name: help wanted
-  description: Extra attention is needed
-  color: 008672
-- name: plugin conflict
-  description: issue related to another plugin
-  color: dda821
-- name: solved
-  description: workaround documented or fix applied
-  color: 210684
-- name: support
-  description: how-to or assistance with operation
+- name: type: potential bug
+  description: Bug reported but yet to be analysed
+  color: f9d0c4
+- name: type: confirmed bug
+  description: Bug reproduced and needs to be fixed
+  color: b60205
+- name: type: question
+  description: Get support, ask questions
   color: d876e3
+- name: type: request
+  description: New feature or request
+  color: 0052cc
+- name: type: feedback
+  description: Release feedback
+  color: 79db55
+- name: type: not plugin
+  description: Issue or feature request out of my control
+  color: fbca04
+- name: status: unreproduced
+  description: Unable to reproduce issue
+  color: c5def5
+- name: status: solved
+  description: Solved!
+  color: 0e8a16
+- name: status: awaiting information
+  description: More information requested about the report
+  color: d4c5f9
+- name: status: under construction
+  description: Issue/FR grabbed and someone else is working on it
+  color: c96426
+- name: duplicate
+  description: Issue/FR already exists
+  color: cfd3d7
+- name: documentation
+  description: Something to do with documentation
+  color: 1d76db
