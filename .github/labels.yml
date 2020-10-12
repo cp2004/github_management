@@ -1,31 +1,31 @@
-- name: "type: potential bug"
+- name: "potential bug"
   description: Bug reported but yet to be analysed
   color: f9d0c4
-- name: "type: confirmed bug"
+- name: "confirmed bug"
   description: Bug reproduced and needs to be fixed
   color: b60205
-- name: "type: question"
+- name: "question"
   description: Get support, ask questions
   color: d876e3
-- name: "type: request"
+- name: "request"
   description: New feature or request
   color: 0052cc
-- name: "type: feedback"
+- name: "feedback"
   description: Release feedback
   color: 79db55
-- name: "type: not plugin"
+- name: "not plugin"
   description: Issue or feature request out of my control
   color: fbca04
-- name: "status: unreproduced"
+- name: "unreproduced"
   description: Unable to reproduce issue
   color: c5def5
-- name: "status: solved"
-  description: Solved!
+- name: "solved"
+  description: Solved, but not yet released.
   color: 0e8a16
-- name: "status: awaiting information"
+- name: "awaiting information"
   description: More information requested about the report
   color: d4c5f9
-- name: "status: under construction"
+- name: "under construction"
   description: Issue/FR grabbed and someone else is working on it
   color: c96426
 - name: "duplicate"
@@ -34,7 +34,7 @@
 - name: "documentation"
   description: Something to do with documentation
   color: 1d76db
-- name: "type: upstream library"
+- name: "upstream library"
   description: Something's wrong with an upstream library the plugin is using
   color: fbca04
 - name: "grabbed"
