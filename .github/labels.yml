@@ -40,3 +40,6 @@
 - name: "grabbed"
   description: Issue/FR has been grabbed by a member of the community
   color: 5319e7
+- name: "up for grabs"
+  description: Issue/FR will not be worked on, open for a member of the community to take it on
+  color: fbca04
