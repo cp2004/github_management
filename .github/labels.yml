@@ -43,3 +43,6 @@
 - name: "up for grabs"
   description: Issue/FR will not be worked on, open for a member of the community to take it on
   color: fbca04
+- name: "needs triage"
+  description: Issue needs manual triage (aka bot couldn't do it...)
+  color: fbca04
