@@ -16,6 +16,7 @@ jobs:
           - cp2004/Octoprint-Upgrade-To-Py3
           - cp2004/OctoPrint-EEPROM-Marlin
           - cp2004/OctoPrint-VirtualPrinterSettings
+          - cp2004/OctoPrint-Playground
     steps:
       - uses: actions/checkout@v2
       - uses: micnncim/action-label-syncer@v1
