@@ -46,3 +46,6 @@
 - name: "needs triage"
   description: Issue needs manual triage (aka bot couldn't do it...)
   color: fbca04
+- name: "needs review"
+  description: Yet to be reviewed
+  color: fff699
