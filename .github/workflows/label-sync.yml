@@ -17,6 +17,8 @@ jobs:
           - cp2004/OctoPrint-EEPROM-Marlin
           - cp2004/OctoPrint-VirtualPrinterSettings
           - cp2004/OctoPrint-Playground
+          - OctoPrint/OctoPrint-AutoLoginConfig
+          - cp2004/OctoPrint-WLED
     steps:
       - uses: actions/checkout@v2
       - uses: micnncim/action-label-syncer@v1
