@@ -49,3 +49,6 @@
 - name: "needs review"
   description: Yet to be reviewed
   color: fff699
+- name: "improvement"
+  description: "Improvement to existing functionality"
+  color: 63d681
