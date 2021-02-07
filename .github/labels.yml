@@ -52,3 +52,9 @@
 - name: "improvement"
   description: "Improvement to existing functionality"
   color: 63d681
+- name: "approved"
+  description: "Issue has been approved by the bot or manually"
+  color: ffffff
+- name: "incomplete"
+  description: "Issue is not complete, more info requested by the bot"
+  color: 78144E
